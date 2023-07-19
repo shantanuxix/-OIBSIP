@@ -10,6 +10,8 @@ Option to play again after winning or when the attempts are exhausted.
 Getting Started
 Clone the repository to your local machine.
 Compile and run the Java program using any Java IDE or command-line tools.
+Screenshots
+Game Screenshot
 
 Contributing
 Contributions to improve the game are welcome! Fork the repository, make your changes, and create a pull request.
