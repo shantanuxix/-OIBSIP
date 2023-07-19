@@ -1,4 +1,4 @@
-	Number Guessing Game		
+#  Number Guessing Game		
 	This is a simple GUI-based Number Guessing Game implemented in Java. 
  	The game generates a random secret number between a specified range, and the player has to guess the number within a limited number of attempts. 
   	The GUI is designed with an attractive and professional look to provide an enjoyable gaming experience.
@@ -13,7 +13,6 @@
  	Getting Started
 	Clone the repository to your local machine.
 	Compile and run the Java program using any Java IDE or command-line tools.
-
 
 	Contributing
 	Contributions to improve the game are welcome! Fork the repository, make your changes, and create a pull request.
