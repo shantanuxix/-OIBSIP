@@ -1,5 +1,7 @@
 	Number Guessing Game		
-	This is a simple GUI-based Number Guessing Game implemented in Java. The game generates a random secret number between a specified range, and the player has to guess the number within a limited number of attempts. The GUI is designed with an attractive and professional look to provide an enjoyable gaming experience.
+	This is a simple GUI-based Number Guessing Game implemented in Java. 
+ 	The game generates a random secret number between a specified range, and the player has to guess the number within a limited number of attempts. 
+  	The GUI is designed with an attractive and professional look to provide an enjoyable gaming experience.
 
 	Features
 	Randomly generates a secret number between 1 and 100.
