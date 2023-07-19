@@ -9,7 +9,8 @@
 	Provides feedback to the player based on their guesses (higher or lower).
 	Displays a congratulatory message upon guessing the correct number.
 	Option to play again after winning or when the attempts are exhausted.
-	Getting Started
+	
+ 	Getting Started
 	Clone the repository to your local machine.
 	Compile and run the Java program using any Java IDE or command-line tools.
 
