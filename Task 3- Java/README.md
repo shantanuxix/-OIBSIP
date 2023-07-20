@@ -7,11 +7,11 @@ Open a terminal or command prompt.
 
 Compile the Java files by running the following command:
 
- javac BankAccount.java ATMApp.java
+	javac BankAccount.java ATMApp.java
 
 After successful compilation, run the application with the following command:
 
-java ATMApp
+	java ATMApp
 
 The application will display the main menu where you can select options for registration, login, withdraw, deposit, transfer, check balance, view transaction history, or exit.
 
